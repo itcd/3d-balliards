@@ -10,35 +10,3 @@ P.P.S We also have a blog (in Chinese)
 http://blog.csdn.net/m2mgroup/
 
 Last updated on 2014-6-24 by lsz.
-
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-* aa
-* bb
-* cc
-* dd
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-### * Database configuration ###
-## * How to run tests ##
-# * Deployment instructions #
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
