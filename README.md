@@ -23,9 +23,9 @@ Last updated on 2014-6-24 by lsz.
 * Summary of set up
 * Configuration
 * Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### * Database configuration ###
+## * How to run tests ##
+# * Deployment instructions #
 
 ### Contribution guidelines ###
 
